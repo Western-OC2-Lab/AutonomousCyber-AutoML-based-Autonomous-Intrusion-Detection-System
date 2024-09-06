@@ -1,5 +1,5 @@
 # AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System
-This repository includes code for the paper ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"]() accepted to the Workshop on Autonomous Cybersecurity (AutonomousCyber 2024), ACM CCS 2024 ([Top-3 Cybersecurity Conference](http://jianying.space/conference-ranking.html)).  
+This repository includes code for the paper ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"](https://arxiv.org/abs/2409.03141) accepted to the Workshop on Autonomous Cybersecurity (AutonomousCyber 2024), ACM CCS 2024 ([Top-3 Cybersecurity Conference](http://jianying.space/conference-ranking.html)).  
 
 Authors: Li Yang (liyanghart@gmail.com) and Abdallah Shami  
 
@@ -7,7 +7,7 @@ Organizations:
 - The Advanced Networking Technology and Security (ANTS) Lab, Faculty of Business and IT, Ontario Tech University
 - The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
-The paper is publicly available on ArXiv: ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"]()
+The paper is publicly available on ArXiv: ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"](https://arxiv.org/pdf/2409.03141)
 
 In this work, we propose a novel and comprehensive AutoML framework that enables fully autonomous intrusion detection in next-generation networks, holding the potential to achieve fully autonomous cybersecurity. 
 
@@ -15,7 +15,7 @@ In this work, we propose a novel and comprehensive AutoML framework that enables
 The rapid evolution of mobile networks from 5G to 6G has necessitated the development of autonomous network management systems, such as Zero-Touch Networks (ZTNs). However, the increased complexity and automation of these networks have also escalated cybersecurity risks. Existing Intrusion Detection Systems (IDSs) leveraging traditional Machine Learning (ML) techniques have shown effectiveness in mitigating these risks, but they often require extensive manual effort and expert knowledge. To address these challenges, this paper proposes an Automated Machine Learning (AutoML)-based autonomous IDS framework towards achieving autonomous cybersecurity for next-generation networks. To achieve autonomous intrusion detection, the proposed AutoML framework automates all critical procedures of the data analytics pipeline, including data pre-processing, feature engineering, model selection, hyperparameter tuning, and model ensemble. Specifically, it utilizes a Tabular Variational Auto-Encoder (TVAE) method for automated data balancing, tree-based ML models for automated feature selection and base model learning, Bayesian Optimization (BO) for hyperparameter optimization, and a novel Optimized Confidence-based Stacking Ensemble (OCSE) method for automated model ensemble. The proposed AutoML-based IDS was evaluated on two public benchmark network security datasets, CICIDS2017 and 5G-NIDD, and demonstrated improved performance compared to state-of-the-art cybersecurity methods. This research marks a significant step towards fully autonomous cybersecurity in next-generation networks, potentially revolutionizing network security applications.
 
 <p float="left">
-  <img src="https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-CNN-and-Transfer-Learning/blob/main/framework.png" width="500" />
+  <img src="https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System/blob/main/Framework.jpg" width="500" />
 </p>
 
 ## AutoML Pipeline and Procedures
