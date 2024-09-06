@@ -55,8 +55,8 @@ The rapid evolution of mobile networks from 5G to 6G has necessitated the develo
    * Publicly available at: https://ieee-dataport.org/documents/5g-nidd-comprehensive-network-intrusion-detection-dataset-generated-over-5g-wireless
 
 ### Code  
-* [AutonomousCyber24_Dataset_1.ipynb](): code for the sampled CICIDS2017 dataset.  
-* [AutonomousCyber24_Dataset_2.ipynb](): code for the sampled 5G-NIDD dataset.
+* [AutonomousCyber24_Dataset_1.ipynb](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System/blob/main/AutonomousCyber24_Dataset_1.ipynb): code for the sampled CICIDS2017 dataset.  
+* [AutonomousCyber24_Dataset_2.ipynb](https://github.com/Western-OC2-Lab/AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System/blob/main/AutonomousCyber24_Dataset_2.ipynb): code for the sampled 5G-NIDD dataset.
   
 
 ### Requirements  
