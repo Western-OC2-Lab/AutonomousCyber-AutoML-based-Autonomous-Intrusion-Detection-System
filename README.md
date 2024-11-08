@@ -1,5 +1,5 @@
 # AutonomousCyber-AutoML-based-Autonomous-Intrusion-Detection-System
-This repository includes code for the paper ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"](https://arxiv.org/abs/2409.03141) accepted to the Workshop on Autonomous Cybersecurity (AutonomousCyber 2024), ACM CCS 2024 ([Top-3 Cybersecurity Conference](http://jianying.space/conference-ranking.html)).  
+This repository includes code for the paper ["Towards Autonomous Cybersecurity: An Intelligent AutoML Framework for Autonomous Intrusion Detection"](https://dl.acm.org/doi/10.1145/3689933.3690833) accepted to the Workshop on Autonomous Cybersecurity (AutonomousCyber 2024), ACM CCS 2024 ([Top-3 Cybersecurity Conference](http://jianying.space/conference-ranking.html)).  
 
 Authors: Li Yang (liyanghart@gmail.com) and Abdallah Shami  
 
